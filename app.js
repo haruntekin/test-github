@@ -1,2 +1,6 @@
-console.log('some change occured')
+console.log('Last change')
 
+console.log('Last change')
+console.log('Last change')
+console.log('Last change')
+console.log('Last change')
